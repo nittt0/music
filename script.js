@@ -114,23 +114,7 @@ let songs = [
             { time: 54.5, text: "Lantas mengapa ku masih menaruh hati" },
             { time: 60, text: "Padahal kutahu kau t'lah terikat janji" },
             { time: 65.5, text: "Keliru ataukah bukan tak tahu" },
-            { time: 71, text: "Lupakanmu tapi aku tak mau" },
-
-            { time: 1000, text: "Secrets I have held in my heart" },
-            { time: 1000, text: "Are harder to hide than I thought" },
-            { time: 1000, text: "Maybe I just wanna be yours" },
-            { time: 1000, text: "I wanna be yours, I wanna be yours" },
-            { time: 1000, text: "Wanna be yours, wanna be yours, wanna be yours" },
-            { time: 1000, text: "Wanna be yours, wanna be yours, wanna be yours" },
-            { time: 1000, text: "Wanna be yours, wanna be yours" },
-
-            { time: 1000, text: "I wanna be your vacuum cleaner (Wanna be yours)" },
-            { time: 1000, text: "Breathing in your dust (Wanna be yours)" },
-            { time: 1000, text: "I wanna be your Ford Cortina (Wanna be yours)" },
-            { time: 1000, text: "I will never rust (Wanna be yours)" },
-            { time: 1000, text: "I just wanna be yours (Wanna be yours)" },
-            { time: 1000, text: "I just wanna be yours (Wanna be yours)" },
-            { time: 1000, text: "I just wanna be yours (Wanna be yours)" }
+            { time: 71, text: "Lupakanmu tapi aku tak mau" }
         ]
     },
 ];
