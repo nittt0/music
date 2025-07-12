@@ -114,7 +114,38 @@ let songs = [
             { time: 54.5, text: "Lantas mengapa ku masih menaruh hati" },
             { time: 60, text: "Padahal kutahu kau t'lah terikat janji" },
             { time: 65.5, text: "Keliru ataukah bukan tak tahu" },
-            { time: 71, text: "Lupakanmu tapi aku tak mau" }
+            { time: 71, text: "Lupakanmu tapi aku tak mau" },
+
+            { time: 79.5, text: "Oh wo" },
+            { time: 82, text: "Baru kau sapa kutersipu (tersipu)" },
+            { time: 87.5, text: "Kau puji lupa amarahku" },
+            { time: 92.5, text: "Karena kau paling tahu (paling tahu)" },
+            { time: 95.5, text: "Cara lemahkan hatiku (hatiku)" },
+            { time: 98, text: "Walau tak ada yang pasti" },
+            { time: 101, text: "Yang kau beri hanya mimpi" },
+
+            { time: 104.5, text: "Lantas mengapa ku masih menaruh hati" },
+            { time: 110.5, text: "Padahal kutahu kau t'lah terikat janji" },
+            { time: 115.5, text: "Keliru ataukah bukan tak tahu" },
+            { time: 121, text: "Lupakanmu tapi aku tak mau" },
+
+            { time: 126.5, text: "Pantaskah aku menyimpan rasa cemburu" },
+            { time: 132.5, text: "Padahal bukan aku yang memilikimu" },
+            { time: 138, text: "Sanggup sampai kapankah ku tak tahu" },
+            { time: 143.5, text: "Akankah akal sehat menyadarkanku" },
+
+            { time: 156, text: "Oh wo" },
+            { time: 165, text: "Uh" },
+
+            { time: 169, text: "Lantas mengapa ku masih menaruh hati" },
+            { time: 180, text: "Padahal kutahu kau t'lah terikat janji" },
+            { time: 185.5, text: "Keliru ataukah bukan tak tahu" },
+            { time: 191, text: "Lupakanmu tapi aku tak mau" },
+            { time: 197, text: "Pantaskah aku (ku menyimpan)" },
+            { time: 200, text: "Untuk menyimpan (rasa cemburu)" },
+            { time: 204.5, text: "Karna bukan aku yang milikimu" },
+            { time: 208, text: "Sanggup sampai kapankah ku tak tahu" },
+            { time: 213, text: "Akankah akal sehat menyadarkanku" }
         ]
     },
 ];
